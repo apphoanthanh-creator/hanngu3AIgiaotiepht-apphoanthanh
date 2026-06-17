@@ -1,0 +1,10 @@
+{
+  "name": "Hanngu3AIgiaotiepht",
+  "description": "Một ứng dụng web đơn giản với nền màu xanh nhạt, viền màu cam, và các nút bấm được đánh số từ Bài 1 đến Bài 15.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
